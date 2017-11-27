@@ -3,6 +3,7 @@ Today I Learned
 
 ## Categories
 * [AWS](#aws)
+* [Spark](#spark)
 
 ---
 ### AWS
