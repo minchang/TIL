@@ -4,6 +4,7 @@ Today I Learned
 ## Categories
 * [AWS](#aws)
 * [Spark](#spark)
+* [iOS](#ios)
 
 ---
 ### AWS
@@ -12,3 +13,6 @@ Today I Learned
 
 ### Spark 
 - [Submit multiple spark jobs](spark/submit-multiple-spark-jobs.md)
+
+### iOS
+- [Resoving multiple methods named error](ios/resolving-multiple-method-named.md)
